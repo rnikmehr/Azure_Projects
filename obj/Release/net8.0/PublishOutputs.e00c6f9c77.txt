@@ -1,0 +1,7 @@
+C:\Users\rnikm\HelloAzureWebApp\bin\Release\net8.0\publish\HelloAzureWebApp.exe
+C:\Users\rnikm\HelloAzureWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\rnikm\HelloAzureWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\rnikm\HelloAzureWebApp\bin\Release\net8.0\publish\HelloAzureWebApp.dll
+C:\Users\rnikm\HelloAzureWebApp\bin\Release\net8.0\publish\HelloAzureWebApp.deps.json
+C:\Users\rnikm\HelloAzureWebApp\bin\Release\net8.0\publish\HelloAzureWebApp.runtimeconfig.json
+C:\Users\rnikm\HelloAzureWebApp\bin\Release\net8.0\publish\HelloAzureWebApp.pdb
